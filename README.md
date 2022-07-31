@@ -4,7 +4,7 @@ This is azure based static web app that is a educational website. This is a proj
 
 Problem Statement : Most of the Students don't have access to tuitions and classes and they do not have a better understandings of concepts.
 
-Description -- It is a Microsoft Azure based website made  using static web app service that helps students to study great courses at low cost from anywhere , anytime. The idea was to create something that helps everyone have access to education. Students can study from anywhere and anytime.
+Description -- It is a Microsoft Azure based website made  using static web app service that helps students to study great courses at low cost from anywhere , anytime. The idea was to create something that helps everyone have access to education. Students can study from anywhere , anytime and the most in-demand skills.
 
 In this project , core Azure service used is:
  Static web app service
